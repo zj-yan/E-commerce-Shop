@@ -1,0 +1,81 @@
+.signup-container{
+  margin-top: 200px;
+ 
+}
+
+.inputPassword{
+  height: 25px;
+  border: 1px solid black;
+}
+
+.inputText{
+  height: 25px;
+  border: 1px solid black;
+}
+  
+
+  .button-SIGNUP {
+      border-radius: 8px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      background-color: #f7bb8b;
+      border: none;
+      color: black;
+      padding: 10px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-weight: bold;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.signup-form {
+  border-style: solid;
+  border-color: #f7bb8b;
+  background-color: white;
+  padding: 40px;
+  margin-left: 350px;
+  margin-right: 350px;;
+  border-radius: 8px;
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+
+  .SignUpTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .SignUpp{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 20px;
+  }

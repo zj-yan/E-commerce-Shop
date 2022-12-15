@@ -1,0 +1,90 @@
+.content {
+  width: 100%;
+  /* color: rgb(98, 98, 102); */
+  font-size: 30px;
+  width: 100%;
+  color:#ed720d ;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px white;
+}
+
+
+.contact{
+    margin-top: 20px;
+}
+
+.contact-title {
+  text-align: center;
+  margin-bottom: 80px;
+  position: relative;
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: rgb(244, 232, 220);
+}
+
+.contact-title::before {
+    
+  content: "";
+  position: absolute;
+  width: 200px;
+  height: 3px;
+  background-color: rgb(255, 234, 176);
+  bottom: 0;
+  left: calc(50% - 100px);
+}
+
+.contact-title::after {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 10px;
+  background-color: #f5b106;
+  left: calc(50% - 12px);
+  bottom: -7px;
+}
+
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+  }
+  
+  .contact-info .item {
+    width: calc(33% - 20px);
+    height: 60px;
+    background-color: #f7bb8b;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s linear;
+  }
+  
+  .contact-info i {
+    display: block;
+    font-size: 40px;
+    line-height: 120px;
+  }
+  
+  .contact-info .item:hover {
+    background-color: antiquewhite;
+  }
+
+  .logoutP{
+    margin-top: 30px;
+  }
+
+  .logoutButton{
+    font-weight: bold;
+    background-color: #f7bb8b;
+  }
+
+
+  .logoutButton:hover{
+    font-weight: bold;
+    background-color: #f7bb8b;
+  }

@@ -1,0 +1,77 @@
+/**************** For ProductList.js file ***************/
+.productList-container {
+  
+  width: max-content;
+  margin-top: 60px;
+}
+
+.productListCard {
+  height: 325px;
+}
+
+.productCard-Title {
+  text-align: left;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.productCard-Rated {
+  font-size: 12px;
+}
+
+.productCard-Price {
+  font-size: 12px;
+}
+
+.productCard-link {
+  font-size: 11px;
+}
+
+.smallPoster {
+  background-color: antiquewhite;
+  display: block;
+  height: 12rem;
+  max-width: 100%;
+  max-height: 100%;
+  padding: 10px;
+
+  user-select: none;
+}
+
+.pageChange {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.PageButton {
+  margin-bottom: 18px;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: black;
+  background-color: #f7bb8b;
+}
+
+.PageButton:hover {
+  color: black;
+  background-color: wheat;
+  outline: none;
+  box-shadow: none !important;
+}
+
+.PageButton:focus {
+  color: black;
+  background-color: #f7bb8b;
+  outline: none;
+  box-shadow: none !important;
+}
+
+.pageNumber {
+  font-weight: bold;
+}
+
+/**************** For Rating.js file ***************/
+.rating {
+  color: #f7bb8b;
+}

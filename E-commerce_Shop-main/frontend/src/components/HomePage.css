@@ -1,0 +1,121 @@
+/********** For NavBarContent.js file ************/
+.Brand{
+    margin-left: 5px;
+    font-weight: bold;
+  }
+  
+  .NavLink{
+    color: black;
+  }
+
+
+  .searchBar{
+    margin-top: 5px;
+  }
+  .searchBarForm {
+    display: flex;
+    flex-direction: column;
+    padding-left: 8px;
+    text-align: left;
+    margin-right: 12px;
+    background-color: white;
+    border-radius: 8px;
+    width: 300px;
+    
+  }
+  
+  .searchBar-input{
+    margin-right: 20px;
+    width: 230px;
+    margin-top: 5px;
+    
+  }
+ 
+  
+  .Form-Button{
+    padding-right: 0;
+    margin-left: 10px;
+    margin-right: 0px;
+  }
+  
+  .Icon {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: x-large;
+  }
+
+  .Icon:hover {
+    color: gray;
+  }
+
+
+  /* for drop down */
+  .dropdown{
+    display: flex;
+    flex-direction: column;
+    background-color:antiquewhite ;
+    height: 0px;
+    
+   
+  }
+
+  .dropdown:empty{
+    border: none;
+  }
+
+  .dropdown-row{
+    padding: 5px;
+    width: 260px;
+    height: 60px;
+    border-top: 3px solid wheat;
+   
+    cursor: pointer;
+    text-align:  start;
+    background-color:white ;
+  }
+
+  
+  
+  /*********** For ProductCarousert.js file ***************/
+  .ProductCarouset{
+    display: 'block';
+    margin-top: 50px;
+  }
+  
+  .main-container{
+    background-color: antiquewhite;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    display: 'block';
+    padding: 30px
+  }
+  
+  
+  .carouset_text{
+    font-family: 'georgia';
+  }
+  
+  
+  .carouset_text h5{
+    margin-top: 50px;
+    color:black ;
+    font-weight: bold;
+    font-style: italic;
+   
+  }
+  
+  .carouset_img{
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 400px;
+    display: block;
+    padding: 15px;
+    margin-bottom: 75px;
+    
+  }
+  

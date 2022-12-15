@@ -1,0 +1,32 @@
+/* For App.js file*/
+.webPage{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background: url(./Img/HomePage.png);
+  background-size: cover;
+  /* background-position: center;  */
+
+}
+
+.App {
+  
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-family: 'georgia';
+  text-align: center;
+  background-color: #f7bb8b;
+  padding-top: 5px;
+  height: 63px;
+}
+
+
+/* For footer part style*/
+.footer{
+  margin-top: auto;
+  background-color: #f7bb8b;
+  font-weight: bold;
+  bottom: 0;
+}

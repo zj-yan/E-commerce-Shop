@@ -1,0 +1,23 @@
+.Profile-container{
+    margin-top: 100px;
+}
+
+.shoppingCartName{
+    margin-top: 20px;
+}
+
+.orderCard{
+    padding: 15px;
+    width: 600px;
+    background-color: wheat;
+    margin-bottom: 15px;
+
+}
+
+.OrderItem{
+    margin-bottom: 50px;
+}
+
+.tag{
+    font-weight: bold;
+}

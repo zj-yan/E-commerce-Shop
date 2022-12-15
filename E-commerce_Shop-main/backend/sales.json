@@ -1,0 +1,259 @@
+[
+    { 
+      "name": "AirPods (2nd generation)",
+      "image": "https://images.unsplash.com/photo-1600375104627-c94c416deefa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "description":
+        "AirPods deliver the wireless headphone experience, reimagined. Just pull them out of the charging case and they are ready to use with your iPhone, Apple Watch, iPad, or Mac.",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 129.00,
+      "countInStock": 15,
+      "rating": 4.5,
+      "numReviews": 12
+    },
+    { 
+      "name": "Apple Watch Series 3",
+      "image": "https://images.unsplash.com/photo-1623682579934-58796c1b2822?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+      "description":
+        "Low and high heart rate notifications. Emergency SOS. New Breathe watch faces. Automatic workout detection. New yoga and hiking workouts",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 199.00,
+      "countInStock": 10,
+      "rating": 4.3,
+      "numReviews": 5
+    },
+    { 
+    "name": "Logitech Gaming Mouse",
+    "image": "https://images.unsplash.com/photo-1563297007-0686b7003af7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvZ2l0ZWNoJTIwJTIwbW91c2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "description":
+      "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "brand": "Logitech",
+    "category": "Electronics",
+    "price": 69.99,
+    "countInStock": 7,
+    "rating": 4.0,
+    "numReviews": 8
+    },
+    { 
+    "name": "iPhone 13",
+    "image": "https://images.unsplash.com/photo-1581637708784-94c4e6f46b54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGlwaG9uZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+    "description":
+      "Introducing the iPhone 13. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "brand": "Apple",
+    "category": "Electronics",
+    "price": 759.99,
+    "countInStock": 9,
+    "rating": 4.5,
+    "numReviews": 5
+    },
+    { 
+    "name": "Cannon EOS 80D DSLR Camera",
+    "image": "https://images.unsplash.com/photo-1500646953400-045056a916d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fubm9uJTIwY2FtZXJhfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "description":
+      "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "brand": "Cannon",
+    "category": "Electronics",
+    "price": 1099.99,
+    "countInStock": 7,
+    "rating": 4.3,
+    "numReviews": 16
+    },
+    
+    {
+    "name": "Sony Cyber-shot DSC-RX100 VII",
+    "image": "https://images.unsplash.com/photo-1606986628470-26a67fa4730c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "description":
+      "Sony XII has strong image stabilization to back up its 50x zoom lens and a large assortment of shooting options for all levels of photographers.",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 1099.99,
+    "countInStock": 6,
+    "rating": 4.7,
+    "numReviews": 16
+    },
+ 
+    {
+    "name": "Huawei Honor Band",
+    "image": "https://images.unsplash.com/photo-1608540405713-bc8742c7bad4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+    "description":
+      "Carefully crafted using 316L stainless steel that is both lightweight and comfortable, the HONOR Watch is one of the slimmest smart watches on the market.",
+    "brand": "Huawei",
+    "category": "Electronics",
+    "price": 49.99,
+    "countInStock": 22,
+    "rating": 4.6,
+    "numReviews": 68
+    },
+  
+    {
+    "name": "Kindle Paperwhite",
+    "image": "https://images.unsplash.com/photo-1555631545-9dc21031669b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1384&q=80",
+    "description":
+      "Kindle is a portable, wireless e-reader that allows users to browse, download and read e-books, magazines, blogs, newspapers and other digital media.",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "price": 159.99,
+    "countInStock": 7,
+    "rating": 5.0,
+    "numReviews": 7
+    },
+   
+    {
+    "name": "Macbook Pro",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "description":
+      "MacBook Pro delivers groundbreaking processing, graphics, and machine learning (ML) performance.",
+    "brand": "Apple",
+    "category": "Electronics",
+    "price": 2199,
+    "countInStock": 2,
+    "rating": 4.4,
+    "numReviews": 16
+    },
+
+    {
+    "name": "XP-PEN Drawing Tablet",
+    "image": "https://images.unsplash.com/photo-1602214710513-5cb3f729a809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80",
+    "description":
+      "With double the resolution of FHD displays and unprecedented vibrancy, the Artist 24 Pro offers a creative experience that exceeds all limits.",
+    "brand": "XP-PEN",
+    "category": "Electronics",
+    "price": 699.99,
+    "countInStock": 5,
+    "rating": 4.9,
+    "numReviews": 46
+    },
+    
+    {
+      "name": "Lenovo ThinkPad",
+      "image": "https://m.media-amazon.com/images/I/61V9nLGNTbS._AC_SL1354_.jpg",
+      "description":
+        "Need to make a Skype call? Or answer one? Sub-functions on the F9 through F11 keys let you do it with ease. Even start a new message with the touch of a button. The ThinkPad X1 Carbon Gen 8 delivers convenience at your fingertips.",
+      "brand": "ThinkPad",
+      "category": "Electronics",
+      "price": 1299.99,
+      "countInStock": 10,
+      "rating": 4.9,
+      "numReviews": 9
+      },
+    
+    {
+      "name": "Electric standing desk",
+      "image": "https://m.media-amazon.com/images/I/71uxMoadFyL._AC_SL1500_.jpg",
+      "description":
+        "The desk has become more stable, quieter. We have updated packaging to reduce shipping damages to a minimum.",
+      "brand": "ApexDesk",
+      "category": "Electronics",
+      "price": 749.99,
+      "countInStock": 15,
+      "rating": 4.8,
+      "numReviews": 77
+      },
+
+    {
+      "name": "Gamepad controller",
+      "image": "https://m.media-amazon.com/images/I/51RPSL8DWrL._AC_SL1291_.jpg",
+      "description":
+        "Built for gaming - Low-friction thumb sticks, a comfortable textured grip, and wireless game play.",
+      "brand": "Luna",
+      "category": "Electronics",
+      "price": 69.99,
+      "countInStock": 66,
+      "rating": 4.9,
+      "numReviews": 7
+      },
+    
+    {
+      "name": "Instant photo printer",
+      "image": "https://m.media-amazon.com/images/I/81lKu0UPysL._AC_SL1500_.jpg",
+      "description":
+        "INSTANT CAMERA, INSTANT FUN! Print and share 2x3-inch snapshots or stickers whenever inspiration hits with this photo printer and instant camera in one",
+      "brand": "HP",
+      "category": "Electronics",
+      "price": 79.99,
+      "countInStock": 59,
+      "rating": 4.8,
+      "numReviews": 15
+      },
+
+    {
+      "name": "Pixel display",
+      "image": "https://m.media-amazon.com/images/I/719cXJ1cmQL._AC_SL1466_.jpg",
+      "description":
+        "Meet Pixoo - The Divoom Pixoo Pixel Art Digital Frame is a fun and useful piece of technology.",
+      "brand": "Divoom",
+      "category": "Electronics",
+      "price": 78.99,
+      "countInStock": 59,
+      "rating": 4.9,
+      "numReviews": 4
+      },
+
+      {
+        "name": "SAMSUNG Galaxy Cell Phone",
+        "image": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SX679_.jpg",
+        "description":
+          "SAMSUNG Galaxy S22 Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video, Night Mode, Brightest Display Screen, 50MP Photo Resolution, Long Battery Life, US Version",
+        "brand": "SAMSUNG",
+        "category": "Electronics",
+        "price": 699.99,
+        "countInStock": 59,
+        "rating": 4.6,
+        "numReviews": 10
+        },
+
+        {
+          "name": "iPhone Pro Max 5G 256GB",
+          "image": "https://m.media-amazon.com/images/I/617FFRO3vcL._FMwebp__.jpg",
+          "description":
+            "iPhone Pro Max. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion for a faster, more responsive feel. Lightning-fast A15 Bionic chip. Durable design and the best battery life ever in an iPhone",
+          "brand": "SAMSUNG",
+          "category": "Electronics",
+          "price": 1199.99,
+          "countInStock": 62,
+          "rating": 4.9,
+          "numReviews": 15
+          },
+
+          {
+            "name": "iRobot Robot Vacuum ",
+            "image": "https://m.media-amazon.com/images/I/71L9ZOwCtiL._AC_SX679_.jpg",
+            "description":
+              "A robot vacuum you can rely on to get the job done. The robot vacuum packs 10x the power-lifting suction and comes with unique intelligence to avoid cords and pet waste.",
+            "brand": "iRobot",
+            "category": "Appliances",
+            "price": 799.99,
+            "countInStock": 23,
+            "rating": 4.3,
+            "numReviews": 5
+            },
+
+            {
+              "name": "LED 4K UHD Smart webOS TV",
+              "image": "https://m.media-amazon.com/images/I/915fzh10-KL._AC_SX679_.jpg",
+              "description":
+                "Dive into a world of free content, thanks to over 300+ free XX Channels and personalized recommendations for everyone you share the remote with.",
+              "brand": "LG",
+              "category": "Electronics",
+              "price": 519.99,
+              "countInStock": 23,
+              "rating": 4.1,
+              "numReviews": 8
+              },
+
+              {
+                "name": "Wireless On-Ear Headphones",
+                "image": "https://m.media-amazon.com/images/I/61PWIbH2VWL._AC_SY879_.jpg",
+                "description":
+                  "Powerful drivers deliver sharp, lifelike audio, while the Bass Boost feature helps you feel the beat by enhancing low-end frequencies. ",
+                "brand": "JVC",
+                "category": "Electronics",
+                "price": 39.99,
+                "countInStock": 45,
+                "rating": 4.2,
+                "numReviews": 7
+                }
+
+  
+  ]

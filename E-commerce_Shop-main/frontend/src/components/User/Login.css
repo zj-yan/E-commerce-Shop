@@ -1,0 +1,148 @@
+.login-container{
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+
+.login-form {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #f7bb8b;
+  background-color: white;
+  padding: 40px;
+  margin-left: 100px;
+  margin-right: 100px;;
+}
+
+.inputPassword {
+  height: 25px;
+  border: 1px solid black;
+}
+
+.inputText {
+  height: 25px;
+  border: 1px solid black;
+}
+
+  
+  
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+  .button-SIGNUP{
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #f7bb8b;
+    border: none;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+
+  .signup-link{
+    
+    padding: 1rem;
+    padding-top: 3 rem;
+    text-align: center;
+  }
+
+  .link{
+    color: black;
+  }
+
+  .googleLogin-link{
+    border-radius: 8px;
+    padding: 20px;
+    width: fit-content;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+  }
+  
+  .error {
+    padding: 5px;
+    font-weight: bold;
+    color: red;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  .title {
+    margin-top: 300px;
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+
+  .lable{
+    font-weight: bold;
+  }
+
+  .bigTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size:  30px;
+    margin-bottom: 120px;
+    color: #f7bb8b;
+    text-shadow: 2px 2px black;
+  }
+
+  .googleLogin-link{
+    border-style: solid;
+    border-color: #f7bb8b;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 100px;
+  }
+
+  .googleTitle{
+    padding: 50px;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size:  25px;
+  }
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+
+.signup-link {
+  padding: 1rem;
+  padding-top: 3 rem;
+}
+
+.googleLogin-link {
+  padding: 1rem;
+  background-color: white;
+}
+
+
+.title {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
